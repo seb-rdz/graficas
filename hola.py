@@ -9,7 +9,7 @@ import numpy as np
 # Crear el título para la aplicación web
 st.title("Titanic App")
 st.header("Titanic Graphs - App")
-st.write("A01709461")
+st.write("Sebastián Rodríguez | A01709461")
 
 titanic_link = 'titanic(1).csv'
 titanic_data = pd.read_csv(titanic_link)
